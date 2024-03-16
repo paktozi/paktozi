@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @paktozi
-![c#logo jpg 600](https://github.com/paktozi/paktozi/assets/130216112/d8c7362f-d690-4c4d-9867-e44c3fc42f63)
+![c#300](https://github.com/paktozi/paktozi/assets/130216112/0318cf06-f1a3-41d9-a306-6a921ec7909e)
+
 
 
 
